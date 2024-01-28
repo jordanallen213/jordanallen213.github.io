@@ -17,6 +17,10 @@ p {text-align: center;}
 
 figcaption {text-align: center;}
 
+.date{
+    font-weight: bold;
+}
+
 /*block quotes and centering said blockquotes*/
 
 blockquote p {
@@ -99,4 +103,10 @@ text-align: center;
 padding: 5px;
 background-color: #abbaba;
 color: #000;
+}
+
+
+/*bolding photo captions */
+figcaption{
+    font-weight: bold;
 }
