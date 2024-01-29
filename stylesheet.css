@@ -2,20 +2,28 @@
 /*general centering and formatting*/
 
 body{
-background-color: #eee;
+background-color: #dad9d9;
 }
 
 h1 {
 text-align: center;
+font-family: arial;
 /*background-color: #abbaba;
 color: #000;
 line-height: 55px;
 margin-bottom: 0px;*/
 }
 
-p {text-align: center;}
+p {
+    text-align: center;
+    font-family: arial;
+}
 
-figcaption {text-align: center;}
+figcaption {
+    text-align: center;
+    font-weight: bold;
+    font-family: arial;
+}
 
 .date{
     font-weight: bold;
@@ -25,10 +33,10 @@ figcaption {text-align: center;}
 
 header{
     text-align: center;
-background-color: #abbaba;
+background-color: #8b9093;
 color: #000;
-line-height: 100px;
-margin-bottom: -50px;
+line-height: 150px;
+margin-bottom: 0px;
 font-size: 3em;
 font-weight: bold;
 }
@@ -38,7 +46,7 @@ font-weight: bold;
 
 blockquote p {
 padding: 15px;
-background: #c3c9c9;
+background: #afb3b6;
 border-radius: 5px;
 }
 
@@ -54,7 +62,7 @@ width: 50%;
 .linkbutton{
 padding: 5px;
 border-radius: 5px;
-background: #c3c9c9;
+background: #afb3b6;
 text-align: center;
 display: block;
 margin-left: auto;
@@ -66,7 +74,7 @@ margin-bottom: 10px;
 .photolinkbutton{
 padding: 5px;
 border-radius: 5px;
-background: #c3c9c9;
+background: #afb3b6;
 text-align: center;
 display: block;
 margin-left: auto;
@@ -77,6 +85,7 @@ margin-bottom: 10px;
 
 .link {
 font-size: 20px; color:#1F9AFE;
+font-family: arial;
 }
 
 .desc{
@@ -90,13 +99,14 @@ list-style-type: none;
 margin: 0;
 padding: 0;
 overflow: hidden;
-background-color: #c3c9c9;
+background-color: #afb3b6;
 line-height: 30px;
 }
 
 li {
 float: left;
 font-size: 16px;
+font-family: arial;
 font-weight: normal;
 }
 
@@ -109,7 +119,8 @@ text-decoration: none;
 }
 
 li a:hover {
-background-color: #abbaba;
+background-color: #8b9093;
+font-weight: bold;
 }
 
 
@@ -120,12 +131,9 @@ background-color: #abbaba;
 footer {
 text-align: center;
 padding: 5px;
-background-color: #abbaba;
+background-color: #8b9093;
 color: #000;
+font-family: arial;
 }
 
 
-/*bolding photo captions */
-figcaption{
-    font-weight: bold;
-}
