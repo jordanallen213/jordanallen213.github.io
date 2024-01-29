@@ -96,8 +96,13 @@ li a:hover {
 background-color: #abbaba;
 }
 
-
-
+/*test*/
+.navbar{
+    width: 100%;
+    padding-top: -10px;
+    position: relative;
+    margin-top: -10px;
+}
 
 
 /*Making the footer style*/
