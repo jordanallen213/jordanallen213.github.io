@@ -8,10 +8,11 @@ background-color: #dad9d9;
 h1 {
 text-align: center;
 font-family: arial;
-/*background-color: #abbaba;
+background-color: #8b9093;
 color: #000;
 line-height: 55px;
-margin-bottom: 0px;*/
+margin-bottom: 0px;
+color: white;
 }
 
 p {
@@ -61,13 +62,13 @@ width: 50%;
 
 .linkbutton{
 padding: 5px;
-border-radius: 5px;
+
 background: #afb3b6;
 text-align: center;
 display: block;
 margin-left: auto;
 margin-right: auto;
-width: 50%;
+width: 70%;
 margin-bottom: 10px;
 }
 
@@ -83,8 +84,15 @@ width: 30%;
 margin-bottom: 10px;
 }
 
+
+
+.linkbutton a:hover {
+  
+    font-weight: bold;
+    }
+
 .link {
-font-size: 20px; color:#1F9AFE;
+font-size: 20px; color:black;
 font-family: arial;
 }
 
@@ -120,7 +128,8 @@ text-decoration: none;
 
 li a:hover {
 background-color: #8b9093;
-font-weight: bold;
+
+color: white;
 }
 
 
@@ -137,3 +146,23 @@ font-family: arial;
 }
 
 
+/*column stuff*/
+
+.column {
+    float: left;
+    width: 50%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
+  }
