@@ -7,10 +7,10 @@ background-color: #eee;
 
 h1 {
 text-align: center;
-background-color: #abbaba;
+/*background-color: #abbaba;
 color: #000;
 line-height: 55px;
-margin-bottom: 0px;
+margin-bottom: 0px;*/
 }
 
 p {text-align: center;}
@@ -20,6 +20,19 @@ figcaption {text-align: center;}
 .date{
     font-weight: bold;
 }
+
+/*making the jordans blog header*/
+
+header{
+    text-align: center;
+background-color: #abbaba;
+color: #000;
+line-height: 100px;
+margin-bottom: -50px;
+font-size: 3em;
+font-weight: bold;
+}
+
 
 /*block quotes and centering said blockquotes*/
 

@@ -11,4 +11,4 @@ template.innerHTML = `
 </ul>
 `;
 
-document.querySelector('h1').appendChild(template.content);
+document.querySelector('header-component').appendChild(template.content); 
