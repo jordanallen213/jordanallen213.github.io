@@ -128,8 +128,7 @@ text-decoration: none;
 
 li a:hover {
 background-color: #8b9093;
-
-color: white;
+font-weight: bold;
 }
 
 
