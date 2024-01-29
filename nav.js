@@ -1,20 +1,14 @@
-fetch('nav.html')
-.then(res => res.text())
-.then(text => {
-    let oldelem = document.querySelector("script#replace_with_navbar");
-    let newelem = document.createElement("div");
-    newelem.innerHTML = text;
-    oldelem.parentNode.replaceChild(newelem,oldelem);
-})
+const template = document.createElement('template');
 
-//function addElement(){
+template.innerHTML = `
+<link href="stylesheet.css" rel="stylesheet">
+<ul>
+<li><a class="active" href="https://jordanallen213.github.io/">Home</a></li>
+<li><a href="https://jordanallen213.github.io/pages/bydate.html">Climbing Trips</a></li>
+<li><a href="https://jordanallen213.github.io/pages/backpacking.html">Backpacking Trips</a></li>
+<li><a href="https://jordanallen213.github.io/pages/rivertrips.html">River Trips</a></li>
+<li style="float:right"><a class="active" href="https://jordanallen213.github.io/pages/contact.html">Contact Me</a></li>
+</ul>
+`;
 
-  //  const header= "<div>This is my nav</div>"
-    //document.querySelector(".date").insertAdjacentHTML("afterbegin", header);
-
-//}
-
-//modules.export=addElement
-
-
-//export default addElement;
+document.querySelector('h1').appendChild(template.content);
