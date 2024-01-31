@@ -28,6 +28,11 @@ figcaption {
     font-family: arial;
 }
 
+.price{
+    font-size: 18px;
+    font-style: normal;
+}
+
 .date{
     font-weight: bold;
 }

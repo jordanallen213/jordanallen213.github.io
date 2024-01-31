@@ -9,7 +9,7 @@ class customfooter extends HTMLElement {
     <link href="stylesheet.css" rel="stylesheet">
     <footer>
     <small>
-    Copyright &copy; 2024 Jordan Allen. All Rights Reserved.
+    Copyright &copy; 2023-2024 Jordan Allen. All Rights Reserved.
     </small>
     </footer>
     `;
