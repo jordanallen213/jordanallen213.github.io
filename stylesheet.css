@@ -2,19 +2,13 @@
 /*general centering and formatting*/
 
 body{
-background-color: #dad9d9;
+background-color: white;
 }
 
 h1 {
 text-align: center;
 font-family: arial;
-
 color: #000;
-/*
-line-height: 55px;
-background-color: #8b9093;
-margin-bottom: 0px;
-color: white;*/
 }
 
 p {
@@ -28,11 +22,13 @@ figcaption {
     font-family: arial;
 }
 
+/*prices bigger*/
 .price{
     font-size: 18px;
     font-style: normal;
 }
 
+/*dates bolded*/
 .date{
     font-weight: bold;
 }
@@ -48,26 +44,29 @@ margin-left: auto;
 margin-right: auto;
 width: 70%;
 margin-bottom: 10px;
+color: white;
 }
 
+/*
 .indexbutton:hover {
   background-color: #8b9093;
     font-weight: normal;
     }
+    */
 
+    /*
     .indexbutton p:hover {
         background-color: #8b9093;
           font-weight: normal;
           color: white;
           }
-
+*/
 
 /*making the jordans blog header*/
 
 header{
-    text-align: center;
-background-color: #8b9093;
-color: #000;
+text-align: center;
+background-color: lightgray;
 line-height: 150px;
 margin-bottom: 0px;
 font-size: 3em;
@@ -94,8 +93,9 @@ width: 50%;
 
 .linkbutton{
 padding: 5px;
-
-background: #afb3b6;
+background-color: lightgray;
+border-style: thin;
+border-width: 2px;
 text-align: center;
 display: block;
 margin-left: auto;
@@ -107,7 +107,8 @@ margin-bottom: 10px;
 .photolinkbutton{
 padding: 5px;
 border-radius: 5px;
-background: #afb3b6;
+background: lightgray;
+color: black;
 text-align: center;
 display: block;
 margin-left: auto;
@@ -124,7 +125,8 @@ margin-bottom: 10px;
 
 
 .link {
-font-size: 20px; color:black;
+font-size: 20px;
+color: black;
 font-family: arial;
 }
 
@@ -132,14 +134,15 @@ font-family: arial;
 font-size: 16px; color: black;
 }
 
-/*Stlye stuff for the navigation bar*/
 
+
+/*Stlye stuff for the navigation bar*/
 ul {
 list-style-type: none;
 margin: 0;
 padding: 0;
 overflow: hidden;
-background-color: #afb3b6;
+background-color: lightgray;
 line-height: 30px;
 }
 
@@ -159,26 +162,24 @@ text-decoration: none;
 }
 
 li a:hover {
-background-color: #8b9093;
+background-color: rgb(195, 195, 195);
 font-weight: bold;
+color: black;
 }
 
 
 
 
 /*Making the footer style*/
-
 footer {
 text-align: center;
 padding: 5px;
-background-color: #8b9093;
-color: #000;
+background-color: lightgray;
+color: black;
 font-family: arial;
 }
 
-
 /*column stuff*/
-
 .column {
     float: left;
     width: 50%;
