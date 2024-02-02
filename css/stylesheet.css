@@ -1,4 +1,3 @@
-
 /*general centering and formatting*/
 
 body{
@@ -33,11 +32,11 @@ figcaption {
     font-weight: bold;
 }
 
-/*index page buttons*/
+/*index page buttons and buttons for other pages*/
 .indexbutton{
     padding: 5px;
 border: none;
-background: #afb3b6;
+background: black;
 text-align: center;
 display: block;
 margin-left: auto;
@@ -47,38 +46,26 @@ margin-bottom: 10px;
 color: white;
 }
 
-/*
 .indexbutton:hover {
-  background-color: #8b9093;
+  background-color: rgb(62, 62, 62);
     font-weight: normal;
     }
-    */
-
-    /*
-    .indexbutton p:hover {
-        background-color: #8b9093;
-          font-weight: normal;
-          color: white;
-          }
-*/
-
+    
 /*making the jordans blog header*/
-
 header{
 text-align: center;
-background-color: lightgray;
+background-color: black;
 line-height: 150px;
 margin-bottom: 0px;
 font-size: 3em;
 font-weight: bold;
 }
 
-
 /*block quotes and centering said blockquotes*/
-
 blockquote p {
 padding: 15px;
-background: #afb3b6;
+background: black;
+color: white;
 border-radius: 5px;
 }
 
@@ -91,24 +78,10 @@ width: 50%;
 
 /*Style stuff for link buttons*/ 
 
-.linkbutton{
-padding: 5px;
-background-color: lightgray;
-border-style: thin;
-border-width: 2px;
-text-align: center;
-display: block;
-margin-left: auto;
-margin-right: auto;
-width: 70%;
-margin-bottom: 10px;
-}
-
 .photolinkbutton{
 padding: 5px;
-border-radius: 5px;
-background: lightgray;
-color: black;
+background: black;
+color: white;
 text-align: center;
 display: block;
 margin-left: auto;
@@ -119,20 +92,6 @@ margin-bottom: 10px;
 
 
 
-.linkbutton a:hover {
-    font-weight: bold;
-    }
-
-
-.link {
-font-size: 20px;
-color: black;
-font-family: arial;
-}
-
-.desc{
-font-size: 16px; color: black;
-}
 
 
 
@@ -142,7 +101,7 @@ list-style-type: none;
 margin: 0;
 padding: 0;
 overflow: hidden;
-background-color: lightgray;
+background-color: black;
 line-height: 30px;
 }
 
@@ -155,16 +114,16 @@ font-weight: normal;
 
 li a {
 display: block;
-color: black;
+color: white;
 text-align: center;
 padding: 14px 16px;
 text-decoration: none;
 }
 
 li a:hover {
-background-color: rgb(195, 195, 195);
-font-weight: bold;
-color: black;
+background-color: rgb(62, 62, 62);
+/*font-weight: bold;*/
+color: white;
 }
 
 
@@ -174,8 +133,8 @@ color: black;
 footer {
 text-align: center;
 padding: 5px;
-background-color: lightgray;
-color: black;
+background-color: black;
+color: white;
 font-family: arial;
 }
 

@@ -8,8 +8,8 @@ class Header extends HTMLElement {
     this.innerHTML = `
     <link href="stylesheet.css" rel="stylesheet">
       <header>
-      <a href="https://jordanallen213.github.io/">
-    <img src="https://lh3.googleusercontent.com/pw/ABLVV86b6jxXS45SCYu5zCRQTGGbNh20_SmgzW6bnXXQ0s-E0iHFfm7gV9JxbhOFKLSed2QTWByay1skwwNcuSPrCqyhHx5mEo7ntfOMTpAHX1wWZiOIlkOB=w1920-h1080" style="width: 90%;">
+      <a href="https://altitudeaddict.com/">
+    <img src="https://lh3.googleusercontent.com/pw/ABLVV86_pdC4kgBiA1VKXO8fQwCQH45JvPTnMXPzpOmbOaAPhkEFu7_Ey1WXKJ1uEu_TekJwn_XAUpKoSm8hRzCdoRC0Cid5oqtnPXlS9ylju4cRRo12voM6=w1920-h1080" style="width: 90%;">
     </a>  
     </header>
     `;
