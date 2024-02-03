@@ -34,27 +34,37 @@ figcaption {
 
 /*index page buttons and buttons for other pages*/
 .indexbutton{
-    padding: 5px;
-border: none;
-background: black;
+padding: 5px;
+border: 4px black;
+border-color: black;
+border-style: solid;
+border-left: none;
+border-right: none;
+
+background: white;
 text-align: center;
 display: block;
 margin-left: auto;
 margin-right: auto;
 width: 70%;
 margin-bottom: 10px;
-color: white;
+color: black;
 }
 
 .indexbutton:hover {
-  background-color: rgb(62, 62, 62);
+  /*background-color: rgb(62, 62, 62);*/
+  background-color: lightgray;
     font-weight: normal;
     }
     
+
+
+
+
 /*making the jordans blog header*/
 header{
 text-align: center;
-background-color: black;
+background-color: white;
 line-height: 150px;
 margin-bottom: 0px;
 font-size: 3em;
@@ -64,9 +74,10 @@ font-weight: bold;
 /*block quotes and centering said blockquotes*/
 blockquote p {
 padding: 15px;
-background: black;
-color: white;
-border-radius: 5px;
+background: white;
+color: black;
+border-top: solid;
+border-bottom: solid;
 }
 
 .center {
@@ -80,14 +91,16 @@ width: 50%;
 
 .photolinkbutton{
 padding: 5px;
-background: black;
-color: white;
+background: white;
+color: black;
 text-align: center;
 display: block;
 margin-left: auto;
 margin-right: auto;
 width: 30%;
 margin-bottom: 10px;
+border-top: solid;
+border-bottom: solid;
 }
 
 
@@ -101,8 +114,11 @@ list-style-type: none;
 margin: 0;
 padding: 0;
 overflow: hidden;
-background-color: black;
+background-color: white;
 line-height: 30px;
+border-bottom: solid;
+
+
 }
 
 li {
@@ -114,16 +130,16 @@ font-weight: normal;
 
 li a {
 display: block;
-color: white;
+color: black;
 text-align: center;
 padding: 14px 16px;
 text-decoration: none;
 }
 
 li a:hover {
-background-color: rgb(62, 62, 62);
+background-color: lightgray;
 /*font-weight: bold;*/
-color: white;
+color: black;
 }
 
 
@@ -133,9 +149,10 @@ color: white;
 footer {
 text-align: center;
 padding: 5px;
-background-color: black;
-color: white;
+background-color: white;
+color: black;
 font-family: arial;
+border-top: solid;
 }
 
 /*column stuff*/
