@@ -1,0 +1,72 @@
+/*Carosel*/
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.carousel-container {
+    position: relative;
+    width: 50%;
+    margin: auto;
+    overflow: hidden;
+    background: black;
+}
+
+.carousel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%; /* Ensure the carousel takes the full height of the container */
+}
+
+.carousel img {
+    max-width: 100%; /* Limit the maximum width of the images */
+    height: auto;
+    object-fit: contain;
+}
+
+button {
+    position: absolute;
+    background-color: rgba(241, 241, 241, 0.8); /* Adjust the RGBA values as needed */
+    opacity: .2;
+    color: black;
+    font-family: Arial;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out, opacity 0.3s ease-in-out;
+    height: 70%;
+    width: 20%;
+}
+
+button:hover {
+    background-color: rgba(241, 241, 241, 0.8); /* Adjust the RGBA values as needed */
+    opacity: .5;
+}
+
+button i {
+    font-size: 2rem; /* Adjust the size as needed */
+}
+
+
+.prev {
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.next {
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.fullscreen{
+    position: absolute;
+    bottom: 10px; /* Adjust the distance from the bottom as needed */
+    right: 10px; /* Adjust the distance from the right as needed */
+    height: 50px;
+    width: 50px;
+}
