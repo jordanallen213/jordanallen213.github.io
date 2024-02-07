@@ -51,7 +51,7 @@ nextButton.addEventListener('click', function () {
     photoslideContainer.appendChild(carousel);
     photoslideContainer.appendChild(prevButton);
     photoslideContainer.appendChild(nextButton);
-    photoslideContainer.appendChild(fullscreenButton);
+    //photoslideContainer.appendChild(fullscreenButton);
 
     // Initialize currentIndex
     let currentIndex = 0;
