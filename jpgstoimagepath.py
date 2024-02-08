@@ -1,7 +1,7 @@
 import os
 
 # Example usage:
-directory_path = 'includes/photos/climbingphotos/yoswithzeke2023'
+directory_path = 'includes/photos/climbingphotos/jtree2022'
 output_file_path = 'output.txt'
 
 def get_image_paths(directory):
