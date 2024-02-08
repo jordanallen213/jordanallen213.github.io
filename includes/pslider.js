@@ -6,43 +6,43 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Set the height of the carousel container
     const fixedHeight = 500; // Set your fixed height here
-    const fixedWidth = 200+666.66;
+    const fixedWidth = 200 + 666.66;
     photoslideContainer.style.height = fixedHeight + 'px';
     photoslideContainer.style.width = fixedWidth + 'px';
 
     // Get all image elements inside the photoslideContainer
     const imageElements = Array.from(photoslideContainer.getElementsByTagName('img'));
 
-    // Set max-height and width for vertical images
+    // Get image paths from existing image elements
+    const imagePaths = imageElements.map(imgElement => imgElement.src);
+
+    // Set max-height for vertical images
     imageElements.forEach(imgElement => {
-       // if (imgElement.clientHeight > imgElement.clientWidth) {
-            imgElement.style.maxHeight = fixedHeight + 'px';
-            //imgElement.style.width = 'auto';
-      //  }
+        imgElement.style.maxHeight = fixedHeight + 'px';
     });
- 
+
     // Add navigation buttons
-const prevButton = document.createElement('button');
-prevButton.className = 'prev';
-prevButton.innerHTML = '<i class="fas fa-chevron-left"></i>'; // Font Awesome left arrow icon
-prevButton.addEventListener('click', function () {
-    changeSlide(-1);
-});
+    const prevButton = document.createElement('button');
+    prevButton.className = 'prev';
+    prevButton.innerHTML = '<i class="fas fa-chevron-left"></i>'; // Font Awesome left arrow icon
+    prevButton.addEventListener('click', function () {
+        changeSlide(-1);
+    });
 
-const nextButton = document.createElement('button');
-nextButton.className = 'next';
-nextButton.innerHTML = '<i class="fas fa-chevron-right"></i>'; // Font Awesome right arrow icon
-nextButton.addEventListener('click', function () {
-    changeSlide(1);
-});
+    const nextButton = document.createElement('button');
+    nextButton.className = 'next';
+    nextButton.innerHTML = '<i class="fas fa-chevron-right"></i>'; // Font Awesome right arrow icon
+    nextButton.addEventListener('click', function () {
+        changeSlide(1);
+    });
 
-   // Add full-screen button
-   const fullscreenButton = document.createElement('button');
-   fullscreenButton.className = 'fullscreen';
-   fullscreenButton.innerHTML = '<i class="fas fa-expand"></i>'; // Font Awesome expand icon
-   fullscreenButton.addEventListener('click', function () {
-       toggleFullscreen();
-   });
+    // Add full-screen button
+    const fullscreenButton = document.createElement('button');
+    fullscreenButton.className = 'fullscreen';
+    fullscreenButton.innerHTML = '<i class="fas fa-expand"></i>'; // Font Awesome expand icon
+    fullscreenButton.addEventListener('click', function () {
+        toggleFullscreen();
+    });
 
     // Append elements to the photoslideContainer
     photoslideContainer.innerHTML = ''; // Clear the existing content
