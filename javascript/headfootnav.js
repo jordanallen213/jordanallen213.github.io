@@ -1,26 +1,9 @@
-// Function to get the correct base path based on the current page
-const getBasePath = () => {
-    const currentUrl = window.location.href;
-    const baseUrl = currentUrl.substring(0, currentUrl.lastIndexOf('/'));
-
-    // Check if the page is in the root or a subdirectory
-    const subdirectory = '/pages/'; // Adjust this based on your project structure
-    const isRoot = currentUrl.endsWith('/index.html');
-
-    if (isRoot) {
-        return '';
-    } else {
-        const subdirectoryIndex = baseUrl.lastIndexOf(subdirectory);
-        return subdirectoryIndex !== -1 ? baseUrl.substring(0, subdirectoryIndex) : baseUrl;
-    }
-};
-
 const basePath = '/jordanallen213.github.io';
 const headerTemplate = document.createElement('template');
 headerTemplate.innerHTML = `
     <header>
         <a href="https://altitudeaddict.com/">
-            <img src="${basePath}/includes/photos/climbingphotos/eaglelake2023/butress.jpg" style="width: 90%;" alt="Description of your image">
+            <img src="${basePath}/includes/photos/sitephotos/banner.jpg" style="width: 90%;" alt="peak 6148 seen from peak 5750 in the alaska range">
         </a>  
     </header>
 `;
