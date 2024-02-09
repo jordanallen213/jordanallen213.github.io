@@ -1,12 +1,30 @@
+// Function to get the correct base path based on the current page
+const getBasePath = () => {
+    const currentUrl = window.location.href;
+    const baseUrl = currentUrl.substring(0, currentUrl.lastIndexOf('/'));
+
+    // Check if the page is in the root or a subdirectory
+    const subdirectory = '/pages/'; // Adjust this based on your project structure
+    const isRoot = currentUrl.endsWith('/index.html');
+
+    if (isRoot) {
+        return '';
+    } else {
+        const subdirectoryIndex = baseUrl.lastIndexOf(subdirectory);
+        return subdirectoryIndex !== -1 ? baseUrl.substring(0, subdirectoryIndex) : baseUrl;
+    }
+};
+
+const basePath = '/jordanallen213.github.io';
 const headerTemplate = document.createElement('template');
 headerTemplate.innerHTML = `
-<header>
-<a href="https://altitudeaddict.com/">
-<img src="https://lh3.googleusercontent.com/pw/ABLVV86_pdC4kgBiA1VKXO8fQwCQH45JvPTnMXPzpOmbOaAPhkEFu7_Ey1WXKJ1uEu_TekJwn_XAUpKoSm8hRzCdoRC0Cid5oqtnPXlS9ylju4cRRo12voM6=w1920-h1080" style="width: 90%;" alt="peak 6148 alaska seen from peak 5750">
-</a>  
-</header>
+    <header>
+        <a href="https://altitudeaddict.com/">
+            <img src="${basePath}/includes/photos/climbingphotos/eaglelake2023/butress.jpg" style="width: 90%;" alt="Description of your image">
+        </a>  
+    </header>
 `;
-document.body.prepend(headerTemplate.content); 
+document.body.prepend(headerTemplate.content);
 
 const navTemplate = document.createElement('template');
 navTemplate.innerHTML = `
