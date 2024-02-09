@@ -71,10 +71,11 @@ color: black;
 header{
 text-align: center;
 background-color: white;
-line-height: 150px;
+line-height: 10px;
 margin-bottom: 0px;
-font-size: 3em;
+font-size: 1em;
 font-weight: bold;
+margin-top: 10px;
 }
 
 /*block quotes and centering said blockquotes*/
