@@ -16,6 +16,7 @@ h2 {
   font-size: 20px;
   font-weight: normal;
   margin: 20px;
+  font-family: arial;
 }
 
 p {
@@ -245,6 +246,7 @@ margin-top: 5px;
   background-color: rgba(0, 0, 0, 0.7); /* Adjust background color and opacity as needed */
   color: #fff; /* Caption text color */
   padding: 5px;
+  font-family: arial;
 }
 
 .morebutton {
@@ -254,6 +256,7 @@ padding: 15px;
   text-align: center;
   background:  rgb(200, 200, 200);
   color: black;
+  font-family: arial;
 }
 
 .morebutton:hover{
