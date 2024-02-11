@@ -4,7 +4,7 @@ headerTemplate.innerHTML = `
     <header>
         <a href="https://altitudeaddict.com/">
             <img src="${basePath}/includes/photos/sitephotos/banner.jpg" style="width: 90%;" alt="peak 6148 seen from peak 5750 in the alaska range"
-            fetchpriority="high" width="1122.59" height="230.95">
+            fetchpriority="high" >
         </a>  
     </header>
 `;
