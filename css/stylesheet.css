@@ -177,3 +177,101 @@ margin-top: 5px;
     display: table;
     clear: both;
   }
+
+
+
+
+
+
+
+
+/*testing the image subpages*/
+.test{
+  width: 80%;
+  margin: 0 auto; /* Center the container horizontally */
+  border-top: 3px solid #000; /* Set border properties */
+  border-right: none;
+  border-left: none;
+  overflow: hidden; /* Clear the floated columns */
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.subpages {
+  text-align: center;
+  width: 100%;
+}
+
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+
+/*testing stuff*/
+.columnpic {
+  display: inline-block;
+  width: 30%;
+  padding: 5px;
+}
+
+.columnpic2 {
+  display: inline-block;
+  width: 60%;
+  padding: 5px;
+}
+
+.image-container {
+  position: relative;
+  width: 100%;
+  
+}
+
+.image-container:hover{
+  background-color: gray;
+  opacity: .8;
+}
+
+.caption {
+  position: absolute;
+  bottom: 5%;
+  left: 25%;
+  width: 50%;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.7); /* Adjust background color and opacity as needed */
+  color: #fff; /* Caption text color */
+  padding: 5px;
+}
+
+.morebutton {
+width: 100%;
+height:100%;
+padding: 15px;
+  text-align: center;
+  background:  rgb(200, 200, 200);
+  color: black;
+}
+
+.morebutton:hover{
+  background: rgb(170, 170, 170);
+}
+
+.morebuttoncontainer {
+  position: relative;
+  margin-right: 15.2%;
+  margin-left: 75%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: black;
+}
+
+.intro-container{
+  left: 10%;
+  position: relative;
+  width: 80%;
+}
+
