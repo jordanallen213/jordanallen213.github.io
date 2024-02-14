@@ -1,7 +1,7 @@
 import os
 
 # fill this out
-directory_path = '../includes/photos/climbingphotos/eaglelake2023'
+directory_path = '../includes/photos/climbingphotos/sunnyfallsfeb2024'
 output_file_path = 'output.txt'
 
 
