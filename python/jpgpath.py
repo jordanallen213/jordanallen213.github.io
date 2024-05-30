@@ -16,7 +16,7 @@ def write_paths_to_file(image_paths, output_file):
     with open(output_file, 'w') as file:
         for path in image_paths:
             path = path.replace('.JPG', '.jpg')
-            file.write(f'<img src="../../'+ path + '">'+'\n')
+            file.write(f'<img src="../../'+ path + '" loading="lazy">'+'\n')
 
 image_paths = get_image_paths(directory_path)
 write_paths_to_file(image_paths, output_file_path)
