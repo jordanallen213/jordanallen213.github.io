@@ -1,60 +1,19 @@
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_0207.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_0216.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_0224.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_0241.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_0245.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_0270.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_0271.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_0279.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_0283.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_0305.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_0310.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_0321.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_0327.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_0353.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_0357.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_0378.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_0392.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_0411.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_0417.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_0430.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3880.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3894.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3901.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3909.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3920.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3927.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3930.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3933.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3934.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3936.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3937.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3939.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3943.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3949.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3961.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3962.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3964.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3976.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3981.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3983.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3984.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3988.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3991.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3992.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_3997.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_4005.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_4007.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_4012.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_4013.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_4021.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_4023.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_4025.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_4030.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_4035.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_4049.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_4050.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_4052.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_4053.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_4059.jpg" loading="lazy">
-<img src="../../../includes/photos/climbingphotos/marmogeddon2024\IMG_4064.jpg" loading="lazy">
+<img src="../../../includes/photos/climbingphotos/casaval2024\IMG_3420.jpg">
+<img src="../../../includes/photos/climbingphotos/casaval2024\IMG_3422.jpg">
+<img src="../../../includes/photos/climbingphotos/casaval2024\IMG_3426.jpg">
+<img src="../../../includes/photos/climbingphotos/casaval2024\IMG_3433.jpg">
+<img src="../../../includes/photos/climbingphotos/casaval2024\IMG_3435.jpg">
+<img src="../../../includes/photos/climbingphotos/casaval2024\IMG_3438.jpg">
+<img src="../../../includes/photos/climbingphotos/casaval2024\IMG_3442.jpg">
+<img src="../../../includes/photos/climbingphotos/casaval2024\IMG_3444.jpg">
+<img src="../../../includes/photos/climbingphotos/casaval2024\IMG_3449.jpg">
+<img src="../../../includes/photos/climbingphotos/casaval2024\IMG_3460.jpg">
+<img src="../../../includes/photos/climbingphotos/casaval2024\IMG_3464.jpg">
+<img src="../../../includes/photos/climbingphotos/casaval2024\IMG_3468.jpg">
+<img src="../../../includes/photos/climbingphotos/casaval2024\IMG_3470.jpg">
+<img src="../../../includes/photos/climbingphotos/casaval2024\IMG_3473.jpg">
+<img src="../../../includes/photos/climbingphotos/casaval2024\IMG_3477.jpg">
+<img src="../../../includes/photos/climbingphotos/casaval2024\IMG_3479.jpg">
+<img src="../../../includes/photos/climbingphotos/casaval2024\IMG_3487.jpg">
+<img src="../../../includes/photos/climbingphotos/casaval2024\IMG_3500.jpg">
+<img src="../../../includes/photos/climbingphotos/casaval2024\IMG_3501.jpg">
