@@ -3,8 +3,8 @@ const headerTemplate = document.createElement('template');
 headerTemplate.innerHTML = `
     <header>
         <a href="https://altitudeaddict.com/">
-            <img src="${basePath}/includes/photos/sitephotos/banner2.jpg" style="width: 90%;" alt="peak 6148 seen from peak 5750 in the alaska range"
-            fetchpriority="high" >
+            <img src="${basePath}/includes/photos/sitephotos/banner3.jpg" style="width: 90%;" alt="peak 6148 seen from peak 5750 in the alaska range"
+            fetchpriority="high" loading="eager">
         </a>  
     </header>
 `;
