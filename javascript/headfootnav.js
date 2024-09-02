@@ -15,8 +15,8 @@ navTemplate.innerHTML = `
 <ul>
 <li><a class="active" href="https://altitudeaddict.com/">Home</a></li>
 <li><a href="https://altitudeaddict.com/pages/climbingtrips/climbingtriphome.html">Climbing Trips</a></li>
-<li><a href="https://altitudeaddict.com/pages/othertripreports/othertripreports.html">Other Trip Reports</a></li>
 <li><a href="https://altitudeaddict.com/pages/skiing/skiinghome.html">Ski Trips</a></li>
+<li><a href="https://altitudeaddict.com/pages/othertripreports/othertripreports.html">Other Trips</a></li>
 <li><a href="https://altitudeaddict.com/pages/flyfishing/flyfishinghome.html">Fly Fishing</a></li>
 <li><a href="https://altitudeaddict.com/pages/usefullinks/usefullinks.html">Useful Links</a></li>
 <li><a href="https://altitudeaddict.com/pages/forsale/forsale.html">Gear For Sale</a></li>
