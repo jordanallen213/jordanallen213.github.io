@@ -1,8 +1,7 @@
-<img src="../../../includes/photos/skitripphotos/carloski2024\IMG_3717.jpg">
-<img src="../../../includes/photos/skitripphotos/carloski2024\IMG_3754.jpg">
-<img src="../../../includes/photos/skitripphotos/carloski2024\IMG_3770.jpg">
-<img src="../../../includes/photos/skitripphotos/carloski2024\IMG_7611.jpg">
-<img src="../../../includes/photos/skitripphotos/carloski2024\IMG_7629.jpg">
-<img src="../../../includes/photos/skitripphotos/carloski2024\IMG_7638.jpg">
-<img src="../../../includes/photos/skitripphotos/carloski2024\IMG_7643.jpg">
-<img src="../../../includes/photos/skitripphotos/carloski2024\IMG_7652.jpg">
+<img src="../../../includes/photos/skitripphotos/thecone2024\IMG_4012.jpg">
+<img src="../../../includes/photos/skitripphotos/thecone2024\IMG_4014.jpg">
+<img src="../../../includes/photos/skitripphotos/thecone2024\IMG_4018.jpg">
+<img src="../../../includes/photos/skitripphotos/thecone2024\IMG_4024.jpg">
+<img src="../../../includes/photos/skitripphotos/thecone2024\IMG_8146.jpg">
+<img src="../../../includes/photos/skitripphotos/thecone2024\IMG_8154.jpg">
+<img src="../../../includes/photos/skitripphotos/thecone2024\IMG_8167.jpg">
