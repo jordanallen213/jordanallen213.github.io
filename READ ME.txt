@@ -1,0 +1,1 @@
+To fix blog, paste over the two files into the blog main folder and renaim indexx.html to index.html
